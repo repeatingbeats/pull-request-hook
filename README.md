@@ -58,4 +58,4 @@ The following list records merge-related attributes of the web service hook payl
 
 ## Conclusion
 
-The lack of consistency in the merge attributes would indicate that these attributes cannot be relied on to determine whether or not the pull request was merged at the time the 'closed' hook is observerd.
+The lack of consistency in the merge attributes would indicate that these attributes cannot be relied on to determine whether or not the pull request was merged at the time the 'closed' hook is observed.
