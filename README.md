@@ -17,3 +17,11 @@ The following list records merge-related attributes of the web service hook payl
         "mergeable_state": "clean",
         "merged": false,
         "merged_at": null
+
+* [Pull Request #5](https://github.com/repeatingbeats/pull-request-hook/pull/5)
+
+        "merge_commit_sha": "85dabf61ce9b988aca24b65348feea1cd688ce53",
+        "mergeable": null,
+        "mergeable_state": "unknown",
+        "merged": true,
+        "merged_at": "2012-10-03T19:13:36Z",
